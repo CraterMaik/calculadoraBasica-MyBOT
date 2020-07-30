@@ -1,0 +1,11 @@
+C:\Users\assi\Dropbox\csharp\calculadoraBasic\calculadoraBasic\bin\Debug\calculadoraBasic.exe
+C:\Users\assi\Dropbox\csharp\calculadoraBasic\calculadoraBasic\bin\Debug\calculadoraBasic.pdb
+C:\Users\assi\Dropbox\csharp\calculadoraBasic\calculadoraBasic\obj\x86\Debug\calculadoraBasic.Form1.resources
+C:\Users\assi\Dropbox\csharp\calculadoraBasic\calculadoraBasic\obj\x86\Debug\calculadoraBasic.Properties.Resources.resources
+C:\Users\assi\Dropbox\csharp\calculadoraBasic\calculadoraBasic\obj\x86\Debug\calculadoraBasic.csproj.GenerateResource.Cache
+C:\Users\assi\Dropbox\csharp\calculadoraBasic\calculadoraBasic\obj\x86\Debug\calculadoraBasic.exe
+C:\Users\assi\Dropbox\csharp\calculadoraBasic\calculadoraBasic\obj\x86\Debug\calculadoraBasic.pdb
+C:\Users\assi\Dropbox\csharp\calculadoraBasic\calculadoraBasic\bin\Debug\calculadoraBasic.exe.manifest
+C:\Users\assi\Dropbox\csharp\calculadoraBasic\calculadoraBasic\bin\Debug\calculadoraBasic.application
+C:\Users\assi\Dropbox\csharp\calculadoraBasic\calculadoraBasic\obj\x86\Debug\calculadoraBasic.exe.manifest
+C:\Users\assi\Dropbox\csharp\calculadoraBasic\calculadoraBasic\obj\x86\Debug\calculadoraBasic.application
